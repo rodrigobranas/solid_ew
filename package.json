@@ -1,0 +1,17 @@
+{
+  "name": "solid__",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && jest ./dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^27.0.1",
+    "jest": "^27.1.0",
+    "typescript": "^4.4.2"
+  }
+}
