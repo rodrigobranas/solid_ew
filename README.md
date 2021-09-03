@@ -1,5 +1,5 @@
-Este conteúdo é parte do curso Clean Code e Clean Architecture da Branas.io
+Este conteúdo é parte da live sobre SOLID no canal do Eric Wendel
 
 Para mais informações acesse:
 
-https://app.branas.io/clean-code-e-clean-architecture
+https://app.branas.io
